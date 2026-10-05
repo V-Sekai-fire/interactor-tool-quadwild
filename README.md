@@ -8,7 +8,7 @@ It converts the input to OBJ, runs the quad remesher's preparation and quad-gene
 
 ## Build and run
 
-It needs the `trimesh` Python package and a `temporary` folder beside the script for intermediate files. The last argument is `mechanical` or `organic`.
+Run it from the repository root, where it calls the binaries under `thirdparty/` and needs a `temporary` folder for intermediate files. It needs the `trimesh` Python package. The last argument is `mechanical` or `organic`.
 
 ```sh
 python remesh.py <input.glb> <output.glb> organic
