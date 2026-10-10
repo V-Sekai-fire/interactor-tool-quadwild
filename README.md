@@ -16,4 +16,4 @@ python remesh.py <input.glb> <output.glb> organic
 
 ## Licence
 
-The repository has no LICENSE file, so its licence is not stated. The bundled binaries keep their upstream licence.
+MIT. See [LICENSE](LICENSE). The bundled binaries keep their upstream licence.
